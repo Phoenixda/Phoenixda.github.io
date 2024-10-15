@@ -9,10 +9,11 @@
 1._config.yml
 2.pages/about.md  
 导航栏里的“关于”
-包含_data/links.yml   友情链接
-    _data/skills.yml  计算机技能
-    _social.yml       联系方式
+包含_data/links.yml      友情链接
+    _data/skills.yml     计算机技能
+    _data/_social.yml    联系方式
 3.删除部分pages/404.md
+4.更改_data/_social.yml联系方式
 
 待修改：
 1.博客
