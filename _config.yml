@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Da Han
+author: Da Han    #左下角和since日期一行
 organization:
 organization_url:
-github_username: Phoenixda
-location: Suihua, China
-email: chumpma@gmail.com
+github_username: Phoenixda    #左上
+location: Suihua, China       #左上
+email: chumpma@gmail.com      #没找到在哪
 
 # ---------------- #
 #    Navigation    #

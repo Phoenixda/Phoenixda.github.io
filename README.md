@@ -5,6 +5,23 @@
 # 取材
 是按照GitHub中mazhuang的博客模板进行修改的。如有侵权，请作者mazhuang联系我，进而删除此模板并停止使用。
 
+#修改成适合自己的模板过程
+1._config.yml
+2.pages/about.md  
+导航栏里的“关于”
+包含_data/links.yml   友情链接
+    _data/skills.yml  计算机技能
+    _social.yml       联系方式
+3.删除部分pages/404.md
+
+待修改：
+1.博客
+2._config.yml
+有些地方待修改
+3.评论区
+4.微信二维码
+5.学习下面的经验与思考部分内容
+
 ## 概览
 
 <!-- vim-markdown-toc GFM -->
