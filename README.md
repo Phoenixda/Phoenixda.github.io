@@ -14,6 +14,9 @@
     _data/_social.yml    联系方式
 3.删除部分pages/404.md
 4.更改_data/_social.yml联系方式
+5.配置giscus   在_config.yml里配置giscus
+在GitHub中创建commit仓库
+6.
 
 待修改：
 1.博客
@@ -22,6 +25,8 @@
 3.评论区
 4.微信二维码
 5.学习下面的经验与思考部分内容
+6.改网址标签页上的logo
+
 
 ## 概览
 
