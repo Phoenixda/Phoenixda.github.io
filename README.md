@@ -16,7 +16,7 @@
 4.更改_data/_social.yml联系方式
 5.配置giscus（按照giscus中文网进行配置）   在_config.yml里配置giscus
 在GitHub中创建commit仓库
-6.注释掉_includes/header.html中link rel="shortcut icon"部分,取消浏览器页面tab中显示小图标
+6.删掉favicon.ico,取消浏览器页面tab中显示小图标
 
 
 
