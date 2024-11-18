@@ -2,7 +2,11 @@
   name: Phoenixda
   url: https://github.com/Phoenixda
 
-- sitename: 博客
+- sitename: 个人博客
+  name: 学客
+  url: http://49.232.157.67
+
+- sitename: GitHub博客
   name: 学客
   url: http://Phoenixda.github.io
 
